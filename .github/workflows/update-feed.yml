@@ -1,0 +1,40 @@
+name: Uppdatera podcast-feed
+
+on:
+  schedule:
+    # Varje onsdag och lördag 06:00 UTC. GitHub kan fördröja körningen
+    # upp till en timme vid hög last - spelar ingen roll för en podd.
+    - cron: "0 6 * * 3,6"
+  workflow_dispatch:        # gör att du kan köra den manuellt från Actions-fliken
+
+permissions:
+  contents: write           # krävs för att kunna committa tillbaka feeden
+
+concurrency:
+  group: feed-update        # aldrig två körningar samtidigt
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Hämta nya avsnitt
+        run: python rb_feed.py --chunk 200 --output rb.xml --delay 0.5
+
+      - name: Committa om något ändrats
+        run: |
+          git config user.name "feed-bot"
+          git config user.email "feed-bot@users.noreply.github.com"
+          git add rb*.xml rb_cache.json
+          if git diff --staged --quiet; then
+            echo "Inget nytt."
+          else
+            git commit -m "Uppdatera feed $(date -u +%Y-%m-%d)"
+            git push
+          fi
