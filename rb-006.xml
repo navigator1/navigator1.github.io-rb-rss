@@ -5,7 +5,7 @@
 <link>https://risky.biz/</link>
 <description>Hela katalogen, äldsta avsnittet först.</description>
 <language>en</language>
-<lastBuildDate>Sat, 12 Sep 2026 10:27:47 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 11:15:28 +0000</lastBuildDate>
 <itunes:author>Risky Business Media</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
@@ -364,6 +364,13 @@
 <guid isPermaLink="true">https://risky.biz/SNAKEOILERS24PT1/</guid>
 <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
 <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SNAKEOILERS24PT1.mp3" length="0" type="audio/mpeg"/>
+</item>
+<item>
+<title>Risky Business #853 -- We're all gonna die, apparently</title>
+<link>https://risky.biz/RB853/</link>
+<guid isPermaLink="true">https://risky.biz/RB853/</guid>
+<pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+<enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RB853.mp3" length="0" type="audio/mpeg"/>
 </item>
 </channel>
 </rss>
