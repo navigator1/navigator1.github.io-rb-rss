@@ -5,7 +5,7 @@
 <link>https://risky.biz/</link>
 <description>Hela katalogen, äldsta avsnittet först.</description>
 <language>en</language>
-<lastBuildDate>Sat, 10 Oct 2026 12:14:48 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 11:33:53 +0000</lastBuildDate>
 <itunes:author>Risky Business Media</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
@@ -385,6 +385,13 @@
 <guid isPermaLink="true">https://risky.biz/SOAPBOX111/</guid>
 <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
 <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SOAPBOX111.mp3" length="0" type="audio/mpeg"/>
+</item>
+<item>
+<title>Risky Business #855 -- ShinyHunters done sowing, enters reaping phase</title>
+<link>https://risky.biz/RB855/</link>
+<guid isPermaLink="true">https://risky.biz/RB855/</guid>
+<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+<enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RB855.mp3" length="0" type="audio/mpeg"/>
 </item>
 </channel>
 </rss>
