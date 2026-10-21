@@ -5,7 +5,7 @@
 <link>https://risky.biz/</link>
 <description>Hela katalogen, äldsta avsnittet först.</description>
 <language>en</language>
-<lastBuildDate>Sat, 17 Oct 2026 10:26:19 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 11:32:11 +0000</lastBuildDate>
 <itunes:author>Risky Business Media</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
@@ -392,6 +392,13 @@
 <guid isPermaLink="true">https://risky.biz/RB855/</guid>
 <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
 <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RB855.mp3" length="0" type="audio/mpeg"/>
+</item>
+<item>
+<title>Risky Business #856 -- 8-bit encryption, PHP megabugs and more</title>
+<link>https://risky.biz/RB856/</link>
+<guid isPermaLink="true">https://risky.biz/RB856/</guid>
+<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+<enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RB856.mp3" length="0" type="audio/mpeg"/>
 </item>
 </channel>
 </rss>
