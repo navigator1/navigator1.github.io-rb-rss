@@ -5,7 +5,7 @@
 <link>https://risky.biz/</link>
 <description>Hela katalogen, äldsta avsnittet först.</description>
 <language>en</language>
-<lastBuildDate>Sat, 24 Oct 2026 10:40:48 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 12:31:10 +0000</lastBuildDate>
 <itunes:author>Risky Business Media</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
@@ -399,6 +399,13 @@
 <guid isPermaLink="true">https://risky.biz/RB856/</guid>
 <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
 <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RB856.mp3" length="0" type="audio/mpeg"/>
+</item>
+<item>
+<title>Risky Business #857 -- AI FUD intensifies</title>
+<link>https://risky.biz/RB857/</link>
+<guid isPermaLink="true">https://risky.biz/RB857/</guid>
+<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+<enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RB857.mp3" length="0" type="audio/mpeg"/>
 </item>
 </channel>
 </rss>
