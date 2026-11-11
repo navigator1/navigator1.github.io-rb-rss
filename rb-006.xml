@@ -5,7 +5,7 @@
 <link>https://risky.biz/</link>
 <description>Hela katalogen, äldsta avsnittet först.</description>
 <language>en</language>
-<lastBuildDate>Sat, 07 Nov 2026 12:45:50 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 13:55:17 +0000</lastBuildDate>
 <itunes:author>Risky Business Media</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
@@ -420,6 +420,20 @@
 <guid isPermaLink="true">https://risky.biz/RB858/</guid>
 <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
 <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RB858.mp3" length="0" type="audio/mpeg"/>
+</item>
+<item>
+<title>Soap Box: Security must be more browser-centric</title>
+<link>https://risky.biz/SOAPBOX112/</link>
+<guid isPermaLink="true">https://risky.biz/SOAPBOX112/</guid>
+<pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+<enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SOAPBOX112.mp3" length="0" type="audio/mpeg"/>
+</item>
+<item>
+<title>Risky Business #859 -- ARTEX damage approaches crisis levels</title>
+<link>https://risky.biz/RB859/</link>
+<guid isPermaLink="true">https://risky.biz/RB859/</guid>
+<pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+<enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RB859.mp3" length="0" type="audio/mpeg"/>
 </item>
 </channel>
 </rss>
