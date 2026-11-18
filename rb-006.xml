@@ -5,7 +5,7 @@
 <link>https://risky.biz/</link>
 <description>Hela katalogen, äldsta avsnittet först.</description>
 <language>en</language>
-<lastBuildDate>Sat, 14 Nov 2026 13:17:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 15:26:54 +0000</lastBuildDate>
 <itunes:author>Risky Business Media</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <item>
@@ -434,6 +434,13 @@
 <guid isPermaLink="true">https://risky.biz/RB859/</guid>
 <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
 <enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RB859.mp3" length="0" type="audio/mpeg"/>
+</item>
+<item>
+<title>Risky Business #860 -- Google: Agentic hacking has “crossed a threshold”</title>
+<link>https://risky.biz/RB860/</link>
+<guid isPermaLink="true">https://risky.biz/RB860/</guid>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+<enclosure url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RB860.mp3" length="0" type="audio/mpeg"/>
 </item>
 </channel>
 </rss>
